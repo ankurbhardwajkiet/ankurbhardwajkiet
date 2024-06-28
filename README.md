@@ -9,6 +9,7 @@ I'm a passionate DevOps Engineer with extensive experience in various technologi
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-333333?style=flat&logo=vagrant)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 
 ## 🌟 About Me:
@@ -26,9 +27,8 @@ I'm a passionate DevOps Engineer with extensive experience in various technologi
 
 ## 📫 How to reach me:
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](www.linkedin.com/in/dr-ankur-bhardwaj-61ba5154)
+- [Email](mailto:ankurbhardwaj2002@gmail.com)
 
 ## 📚 My Latest Projects:
 
