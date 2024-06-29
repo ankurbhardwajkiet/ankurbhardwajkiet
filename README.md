@@ -33,8 +33,8 @@ I'm a passionate DevOps Engineer with extensive experience in various technologi
 ## 📚 My Latest Projects:
 
 - **[Project 1](https://github.com/ankurbhardwajkiet/kubernetesproject.git)**.
-- **[Project 2](https://github.com/ankurbhardwajkiet/project2)**: Description of project 2.
-- **[Project 3](https://github.com/ankurbhardwajkiet/project3)**: Description of project 3.
+- **[Project 2](https://github.com/ankurbhardwajkiet/Terraform.git)**.
+- **[Project 3](https://github.com/ankurbhardwajkiet/project3)**: 
 
 ## 🎯 Goals for 2024:
 
